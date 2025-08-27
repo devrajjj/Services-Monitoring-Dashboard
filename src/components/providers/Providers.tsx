@@ -17,7 +17,7 @@ export function Providers({ children }: ProvidersProps) {
         defaultTheme="system"
         enableSystem
         disableTransitionOnChange={false}
-        storageKey="turium-theme"
+        storageKey="DemoCompany-theme"
       >
         {children}
       </ThemeProvider>

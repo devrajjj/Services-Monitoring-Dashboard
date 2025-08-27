@@ -20,7 +20,7 @@ export function LoadingScreen() {
           <Loader2 className="h-8 w-8 text-blue-600 mx-auto" />
         </motion.div>
         <h2 className="text-xl font-semibold text-gray-900 dark:text-white mb-2">
-          Loading TuriumCorp SRE Dashboard
+          Loading DemoCompany SRE Dashboard
         </h2>
         <p className="text-gray-600 dark:text-gray-400">
           Initializing monitoring systems...

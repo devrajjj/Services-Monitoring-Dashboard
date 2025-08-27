@@ -8,10 +8,10 @@ import { ThemeScript } from "@/components/theme/ThemeScript";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "TuriumCorp SRE Dashboard",
+  title: "DemoCompany SRE Dashboard",
   description: "Site Reliability Engineering Dashboard for monitoring microservices health",
   keywords: ["SRE", "Monitoring", "Dashboard", "Microservices", "DevOps"],
-  authors: [{ name: "TuriumCorp Engineering Team" }],
+  authors: [{ name: "DemoCompany Engineering Team" }],
 };
 
 export const viewport: Viewport = {

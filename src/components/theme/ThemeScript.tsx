@@ -2,7 +2,7 @@ export function ThemeScript() {
   const themeScript = `
     (function() {
       try {
-        var theme = localStorage.getItem('turium-theme');
+        var theme = localStorage.getItem('DemoCompany-theme');
         if (theme === 'dark' || (!theme && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
           document.documentElement.classList.add('dark');
         } else {

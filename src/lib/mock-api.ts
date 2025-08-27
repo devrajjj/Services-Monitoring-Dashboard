@@ -10,7 +10,7 @@ let services: Service[] = [
     createdAt: '2024-01-01T00:00:00Z',
     updatedAt: '2024-01-15T10:30:00Z',
     description: 'Handles user authentication and authorization',
-    endpoint: 'https://auth.turiumcorp.com',
+    endpoint: 'https://auth.DemoCompany.com',
     lastCheck: '2024-01-15T10:30:00Z'
   },
   {
@@ -21,7 +21,7 @@ let services: Service[] = [
     createdAt: '2024-01-01T00:00:00Z',
     updatedAt: '2024-01-15T10:29:00Z',
     description: 'Primary product catalog database',
-    endpoint: 'postgresql://products.turiumcorp.com',
+    endpoint: 'postgresql://products.DemoCompany.com',
     lastCheck: '2024-01-15T10:29:00Z'
   },
   {
@@ -32,7 +32,7 @@ let services: Service[] = [
     createdAt: '2024-01-01T00:00:00Z',
     updatedAt: '2024-01-15T10:25:00Z',
     description: 'Payment processing service',
-    endpoint: 'https://payments.turiumcorp.com',
+    endpoint: 'https://payments.DemoCompany.com',
     lastCheck: '2024-01-15T10:25:00Z'
   },
   {
@@ -43,7 +43,7 @@ let services: Service[] = [
     createdAt: '2024-01-01T00:00:00Z',
     updatedAt: '2024-01-15T10:28:00Z',
     description: 'Distributed caching layer',
-    endpoint: 'redis://cache.turiumcorp.com',
+    endpoint: 'redis://cache.DemoCompany.com',
     lastCheck: '2024-01-15T10:28:00Z'
   },
   {
@@ -54,7 +54,7 @@ let services: Service[] = [
     createdAt: '2024-01-01T00:00:00Z',
     updatedAt: '2024-01-15T10:20:00Z',
     description: 'System monitoring and alerting',
-    endpoint: 'https://monitoring.turiumcorp.com',
+    endpoint: 'https://monitoring.DemoCompany.com',
     lastCheck: '2024-01-15T10:20:00Z'
   },
   {
@@ -65,7 +65,7 @@ let services: Service[] = [
     createdAt: '2024-01-01T00:00:00Z',
     updatedAt: '2024-01-15T10:27:00Z',
     description: 'Traffic distribution and load balancing',
-    endpoint: 'https://lb.turiumcorp.com',
+    endpoint: 'https://lb.DemoCompany.com',
     lastCheck: '2024-01-15T10:27:00Z'
   }
 ]

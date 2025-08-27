@@ -100,7 +100,7 @@ export const useAppStore = create<AppStore>()(
       }
     }),
     {
-      name: 'turium-app-storage',
+      name: 'DemoCompany-app-storage',
       partialize: (state) => ({
         theme: state.theme,
         sidebarOpen: state.sidebarOpen

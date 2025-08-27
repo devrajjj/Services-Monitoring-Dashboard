@@ -1,4 +1,4 @@
-# TuriumCorp SRE Dashboard
+# DemoCompany SRE Dashboard
 
 A modern, real-time Site Reliability Engineering (SRE) Dashboard built with Next.js 14, designed to monitor and manage microservices infrastructure with exceptional performance and user experience.
 
@@ -118,7 +118,7 @@ src/
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd turium
+   cd DemoCompany
    ```
 
 2. **Install dependencies**
@@ -149,7 +149,7 @@ The application uses mock data by default. For production, you can configure:
 
 ```env
 # API Configuration
-NEXT_PUBLIC_API_URL=https://api.turiumcorp.com
+NEXT_PUBLIC_API_URL=https://api.DemoCompany.com
 NEXT_PUBLIC_POLLING_INTERVAL=15000
 
 # Feature Flags
